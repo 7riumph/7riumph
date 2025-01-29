@@ -4,7 +4,7 @@ I am a strong proponent of "Tech for Social Good" 🎉
 
 Always on the look out for oppotunities to make a difference, and pay it forwards! 
 
-Some of my Open Source contributions:
+Some of my favorite Open Source contributions:
 
 SMS System Integration for [CASA](https://pgcasa.org/) volunteers  (Ruby on Rails)
 
