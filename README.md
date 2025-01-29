@@ -2,7 +2,7 @@
 
 I am a strong proponent of "Tech for Social Good" 🎉
 
-Always on the look out for oppotunities to make a difference, and pay it forward! 
+Always on the look out for oppotunities to make a difference, and pay it forwards! 
 
 Some of my Open Source contributions:
 
