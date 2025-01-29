@@ -1,8 +1,8 @@
 ### Hello there!
 
-I am a strong proponent of "Tech for Social Good" 🎉
+I am a strong advocate of "Tech for Social Good" 🎉
 
-Always on the look out for oppotunities to make a difference, and pay it forwards! 
+Always on the look out for opportunities to make a difference, and pay it forward! 
 
 Some of my favorite Open Source contributions:
 
