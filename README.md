@@ -11,7 +11,7 @@ Developed an [SMS System Integration](https://github.com/rubyforgood/casa/issues
 - https://github.com/rubyforgood/casa/pull/3738
 - https://github.com/rubyforgood/casa/pull/3408
 - https://github.com/rubyforgood/casa/pull/3349
-- https://github.com/rubyforgood/casa/pull/3641
+- https://github.com/rubyforgood/casa/pull/3641, and [more...](https://github.com/rubyforgood/casa/issues?q=assignee%3A7riumph%20 )
 
 ### What's next? 👀
 
