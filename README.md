@@ -6,7 +6,7 @@ Always on the look out for opportunities to make a difference, and pay it forwar
 
 Some of my favorite Open Source contributions:
 
-Developed an [SMS System Integration](https://github.com/rubyforgood/casa/issues/1017) for [CASA](https://pgcasa.org/) volunteers  (Ruby on Rails)
+Developed an [SMS System Integration](https://github.com/rubyforgood/casa/issues/1017) for [CASA](https://pgcasa.org/) volunteers  (Ruby on Rails, JavaScript, RSpec, HTTP WebMock, Jest)
 
 - https://github.com/rubyforgood/casa/pull/3738
 - https://github.com/rubyforgood/casa/pull/3408
@@ -14,7 +14,7 @@ Developed an [SMS System Integration](https://github.com/rubyforgood/casa/issues
 - https://github.com/rubyforgood/casa/pull/3641, and [more...](https://github.com/rubyforgood/casa/issues?q=assignee%3A7riumph%20 )
 
 ### What's next? 👀
-
+Creating an [iOS](https://github.com/ctc-casa-ios/ios-app) app and [API](https://github.com/rubyforgood/casa/issues/3942) for CASA (React Native & TypeScript, Ruby on Rails)
 
 
 <!--
