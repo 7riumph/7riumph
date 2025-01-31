@@ -14,7 +14,7 @@ Developed an [SMS System Integration](https://github.com/rubyforgood/casa/issues
 - https://github.com/rubyforgood/casa/pull/3641, and [more...](https://github.com/rubyforgood/casa/issues?q=assignee%3A7riumph%20 )
 
 ### What's next? 👀
-Creating an [iOS](https://github.com/ctc-casa-ios/ios-app) app and [API](https://github.com/rubyforgood/casa/issues/3942) for CASA (React Native & TypeScript, Ruby on Rails, more Unit Tests)
+Creating an [iOS](https://github.com/ctc-casa-ios/ios-app) app and [API](https://github.com/rubyforgood/casa/issues/3942) for CASA (React Native & TypeScript, Ruby on Rails, Unit Tests ⚙️🛠️)
 
 
 <!--
